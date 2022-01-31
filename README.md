@@ -1,6 +1,6 @@
 <html>
   <style>
-  p.THIS{background-color:red;}
+  p{background-color:red;}
   
   
   </style>
